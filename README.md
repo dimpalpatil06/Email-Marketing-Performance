@@ -1,6 +1,6 @@
 # 📊 MailMetrics: Email Marketing Performance Dashboard  
 
-![Dashboard Preview](https://files.oaiusercontent.com/file-PhGqwdUVhVg4Xv18CBvzqt/email_dashboard.png)
+![Dashboard Preview](https://github.com/dimpalpatil06/Email-Marketing-Performance/blob/main/Dashboard.png)
 
 ---
 
