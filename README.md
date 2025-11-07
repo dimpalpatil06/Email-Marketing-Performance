@@ -46,4 +46,4 @@ It visualizes campaign delivery, audience engagement, and operational KPIs to su
 **Dimpal Patil**  
 🎓 *Graduate Student in Computer Engineering*  
 📊 *Data Analytics & Visualization Enthusiast*  
-🔗 [LinkedIn](your-link-here) | 💻 [GitHub](your-link-here)
+🔗 [LinkedIn] (https://www.linkedin.com/in/dimpalpatil6/)
